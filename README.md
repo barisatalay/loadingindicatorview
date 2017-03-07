@@ -62,5 +62,7 @@ Indicators is load from class names, proguard may change it (rename).
  If you have a better idea or way on this project, please let me know, thanks :)
 
 [Email](mailto:b.atalay07@hotmail.com)
+
 [My Blog](http://brsatalay.blogspot.com.tr)
+
 [My Linkedin](linkedin.com/in/barisatalay07/)
