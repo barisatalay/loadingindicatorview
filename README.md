@@ -65,4 +65,4 @@ Indicators is load from class names, proguard may change it (rename).
 
 [My Blog](http://brsatalay.blogspot.com.tr)
 
-[My Linkedin](linkedin.com/in/barisatalay07/)
+[My Linkedin](http://linkedin.com/in/barisatalay07/)
