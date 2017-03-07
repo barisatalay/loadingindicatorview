@@ -81,13 +81,13 @@ public class LoadingIndicatorView {
         return isActive;
     }
 
-    public static void changeText( String messageText) {
+    public static void changeText(String messageText) {
         if(isActive)
             if(message != null)
                 message.setText(messageText);
     }
 
-    public static void changeText( int resourceId) {
+    public static void changeText(int resourceId) {
         if(isActive)
             if(message != null)
                 message.setText(activeScreen.getString(resourceId).toString());
