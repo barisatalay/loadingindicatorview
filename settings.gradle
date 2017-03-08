@@ -1,1 +1,1 @@
-include ':app', ':loadingindicatorviewLib'
+include ':app', ':loadingindicatorlib'

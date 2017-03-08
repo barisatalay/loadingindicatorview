@@ -1,6 +1,13 @@
 # LoadingIndicatorView Library
 My purpose is to use the "AVLoadingIndicatorView" library more conveniently. [here](https://github.com/81813780/AVLoadingIndicatorView).
 
+#Screen Shots
+All Indicators
+![alt tag](screenshots/alltype.png)
+
+Type of BallPulseIndicator
+![alt tag](screenshots/BallPulseIndicator.png)
+
 #Types
 ![avi](screenshots/avi.gif)
 

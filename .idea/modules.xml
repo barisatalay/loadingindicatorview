@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LoadingIndicatorView.iml" filepath="$PROJECT_DIR$/LoadingIndicatorView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loadingindicatorviewLib/loadingindicatorviewLib.iml" filepath="$PROJECT_DIR$/loadingindicatorviewLib/loadingindicatorviewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadingindicatorlib/loadingindicatorlib.iml" filepath="$PROJECT_DIR$/loadingindicatorlib/loadingindicatorlib.iml" />
     </modules>
   </component>
 </project>
