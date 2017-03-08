@@ -6,9 +6,11 @@ All Indicators
 ![alt tag](screenshots/alltype.png)
 
 Type of BallPulseIndicator
+
 ![alt tag](screenshots/BallPulseIndicator.png)
 
 #Types
+
 ![avi](screenshots/avi.gif)
 
 
