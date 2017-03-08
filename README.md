@@ -3,6 +3,7 @@ My purpose is to use the "AVLoadingIndicatorView" library more conveniently. [he
 
 #Screen Shots
 All Indicators
+
 ![alt tag](screenshots/alltype.png)
 
 Type of BallPulseIndicator
